@@ -1,0 +1,10 @@
+node_modules/
+
+public/
+public/images/
+public/images/categories
+public/javascripts/
+public/stylesheets/
+
+**/.env
+package-lock.json

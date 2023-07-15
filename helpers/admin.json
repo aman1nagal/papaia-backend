@@ -1,0 +1,10 @@
+[
+    {
+        "first_name": "khushi",
+        "last_name": "patel",
+        "email": "khushi.alitainfotech@gmail.com",
+        "password": "123456",
+        "phone_number":"9016976435",
+        "select_role": "admin"
+    }
+]
